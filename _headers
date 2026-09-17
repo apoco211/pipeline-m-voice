@@ -1,2 +1,4 @@
 /*
   X-Frame-Options: DENY
+  Cache-Control: no-store, no-cache, must-revalidate
+  Edge-Cache-TTL: 0
