@@ -1,24 +1,34 @@
 {
   "name": "Pipeline M - Voice V4",
   "short_name": "Voice V4",
-  "start_url": "/",
+  "start_url": "/?v=8",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/icon-v8-192.png?v=8",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/icon-v8-512.png?v=8",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icon-180.png",
+      "src": "/icon-v8-180.png?v=8",
       "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png?v=8",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png?v=8",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]

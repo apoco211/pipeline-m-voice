@@ -1,2 +1,14 @@
 /*
   X-Frame-Options: DENY
+  Cache-Control: no-store
+
+/icon-*.png
+  Cache-Control: no-cache, no-store, must-revalidate
+  Edge-Cache-TTL: 0
+
+/manifest.json
+  Cache-Control: no-cache, no-store, must-revalidate
+  Edge-Cache-TTL: 0
+
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
